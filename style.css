@@ -1,0 +1,40 @@
+#div1 {
+  margin:10px;
+  font-size:1.25em;
+}
+table {
+  border:1px solid;
+}
+td {
+  border:1px solid;
+  width:20px;
+  height:20px;
+  text-align:center;
+}
+#color_block div{
+  display: inline-block;
+  border: solid 1px black;
+  width: 20px;
+  height: 20px;
+}
+.highlight{
+  background:grey;
+}
+
+.neutral{
+  background: white;
+}
+.box1{
+  background: red;
+}
+
+.box2{
+  background: green;
+}
+.box3{
+  background: black;
+}
+
+.box4{
+  background: violet;
+}
