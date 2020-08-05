@@ -1,1 +1,1 @@
-# Mini-applicatio-1
+# Mini-application-1
